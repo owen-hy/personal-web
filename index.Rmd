@@ -5,3 +5,9 @@ title: ''
 <center> <h1><b>Owen Yoo</b></h1> </center>
 <center> 
 Statistics and Data Science Student - University of Michigan\newline
+
+<img src="images/owen-headshot.jpg" alt="Headshot" width="500" style="border: 4px solid black;"/>
+
+Hello! My name is Owen and I am a Statistics and Data Science double major at the University of Michigan - Ann Arbor. 
+
+This website is still under construction but feel free to check back!
