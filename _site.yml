@@ -1,9 +1,9 @@
-name: "My Website"
+name: "Owen Yoo"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Owen Yoo"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Education"
+      href: education.html
