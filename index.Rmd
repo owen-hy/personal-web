@@ -3,3 +3,5 @@ title: ''
 ---
 
 <center> <h1><b>Owen Yoo</b></h1> </center>
+<center> 
+Statistics and Data Science Student - University of Michigan\newline
