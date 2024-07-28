@@ -7,3 +7,11 @@ navbar:
       href: index.html
     - text: "Education"
       href: education.html
+    - text: "Other Profiles"
+      menu:
+        - text:  LinkedIn
+          href: https://www.linkedin.com/in/owenyoo/
+          icon: fa-linkedin fa-lg
+        - text:  GitHub
+          href: https://github.com/owen-hy
+          icon: fa-github fa-lg
