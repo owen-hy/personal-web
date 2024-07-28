@@ -1,0 +1,53 @@
+---
+title: ""
+---
+
+# Education
+
+I have the incredible privilege of attending the University of Michigan. Here I take mostly classes within the Stats, Math, and EECS department, but have ventured outside to fulfill some of my personal curiosities.
+
+<div style="text-align: center;">
+  <img src="images/law-quad.jpg" alt="Law Quad" width="500" style="border: 4px solid black;"/>
+  <br/>
+  <em>The Law Quad at Michigan</em>
+</div>
+
+### Current Coursework
+
+-   **STATS 413**: Applied Regression Analysis
+
+-   **DATASCI 451**: Bayesian Data Analysis
+
+-   **EECS 281**: Data Structures and Algorithms
+
+-   **PHYSICS 180**: Topics in Physics - Physics of Art
+
+### Relevant Coursework
+
+These courses are relevant to my background as a statistics and data science double major
+
+-   **STATS 425**: Introduction to Probability
+
+-   **STATS 306**: Introduction to Statistical Computing
+
+-   **STATS 250**: Introduction to Statistics and Data Analysis
+
+-   **EECS 280**: Programming and Introductory Data Structures
+
+-   **EECS 203**: Discrete Math
+
+-   **EECS 183**: Elementary Programming Concepts
+
+-   **MATH 214**: Applied Linear Algebra
+
+-   **MTH 293**: Calculus III (At Washtenaw Community College)
+
+### Other Coursework
+
+These courses were taken more as a personal passion, and while not completely relevant to my major, serve as a foundation for who I am and my belief in a multifaceted education.
+
+-   **HISTORY 376**: Epidemics: Plagues and Cultures from the Black Death to the Present
+
+-   **THEORY 137**: Introduction to the Theory of Music
+
+-   **MUSICOL 123**: Introduction to Popular Music
