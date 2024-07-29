@@ -1,0 +1,33 @@
+---
+title: ""
+---
+
+# Sports Analytics
+
+When I'm not frantically worried about my R code or figuring out the probability of a royal flush, I enjoy watching football. I've had the enjoyment of watching Michigan football win the national championship and lions first playoff win since 1991 in 2024. My passion for football has also intersected with my love for data and statistics. I've been a member of Michigan Sports Analytics Society (MSAS) since January '23 and I've been co-president since April '24. I've done a couple of projects for the annual MSAS symposiums, and these were some of my first introduction to statistics R coding. I owe a lot to sports analytics, as it allowed me to fall in love with data even more and also allowed me to interact with cool people in cool places, including the MIT Sloan Sports Analytics Conference.
+
+<div style="text-align: center;">
+  <img src="images/sloan-image.JPG" alt="sloan picture" width="500" style="border: 4px solid black;"/>
+  <br/>
+  <em>Attending the 2024 MIT Sloan Sports Analytics Conference</em>
+</div>
+
+## Analysis of Kickers in the NFL
+
+A project created for the MSAS symposium '23, I investigated kickers and the factors that goes into kicking accuracy using logistic regression. This helped create a "Field Goal over Expected" metric that analyzed the kickers that outperformed their expectation. A couple of plots from this project are shown below. 
+
+<div style="text-align: center;">
+  <img src="images/distance-success.png" alt="Kickers Accuracy"/>
+  <br/>
+  <img src="images/kicker_oe.png" alt="Kickers FGOE"/>
+</div>
+
+## Creation of Force over Expected
+
+This project was created for the MSAS symposium '24. Using NFL Big Data Bowl '23 data, me and my groupmates [Ben Weber](https://www.linkedin.com/in/benweber5700/) and [Eliana Detata](https://www.linkedin.com/in/eliana-detata-38867524a/) investiagted tackling in the NFL, seeing factors that contributes to the force generated when tackling, and analyzing those outperforming their expected force. This project was published in the [2024 Spring edition of UPenn's Wharton Sports Research Journal](https://wsb.wharton.upenn.edu/wharton-sports-analytics-journal-2/2024-spring-edition/#Yoo). Some plots from this project are shown below. 
+
+<div style="text-align: center;">
+  <img src="images/distribution.png" alt="Distribution of Force"/>
+  <br/>
+  <img src="images/field_heatmap.png" alt="Heatmap of Field"/>
+</div>

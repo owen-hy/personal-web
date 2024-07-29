@@ -12,10 +12,9 @@ In the summer of '24, I had the great honor of participating in the [Big Data Su
   <em>Presenting at the end-of-program symposium</em>
 </div>
 
-During this program, I had the honor of working with the Cancer Data Science team, being mentored by Dr. Veera Baladandayuthapani, Dr. Junsouk Choi, and Grant Carr. My project involves using spatial statistics and hierarchical clustering to see if any similar behaviors in the lung tumor microenvironment has any indications for patient metadata, with a particular focus on cancer recurrence using basic survival analysis. Feel free to read over my poster and reach out if you have any questions!
+During this program, I had the privilege of working with the Cancer Data Science team, being mentored by Dr. Veera Baladandayuthapani, Dr. Junsouk Choi, and Grant Carr. My project involves using spatial statistics and hierarchical clustering to see if any similar behaviors in the lung tumor microenvironment has any indications for patient metadata, with a particular focus on cancer recurrence using basic survival analysis. This project was done alongside [Cassi Hung](https://www.linkedin.com/in/cassandra-hung-035a89241/) and [Clara Craiu](https://www.linkedin.com/in/clara-craiu-3678b426a/). Feel free to read over my poster and reach out if you have any questions!
 
 <div style="text-align: center;">
-  <img src="images/cancer-poster.jpg" alt="BDSI Poster" width="500"/>
-  <br/>
+  <img src="images/cancer-poster.jpg" alt="Cancer Clustering Poster"/>
 </div>
 
