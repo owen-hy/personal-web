@@ -4,7 +4,7 @@ title: ""
 
 # Biostatistics
 
-In the summer of '24, I had the great honor of participating in the [Big Data Summer Institue](https://sph.umich.edu/bdsi/), an NHLBI sponsored program that explores the intersection of big data and human health. This experience was a very formative one for my educational career, being the catalyst for my desires to pursue graduate school in biostatistics. 
+In the summer of '24, I had the great honor of participating in the [Big Data Summer Institute](https://sph.umich.edu/bdsi/index.html), an NHLBI sponsored program that explores the intersection of big data and human health. This experience was a very formative one for my educational career, being the catalyst for my desires to pursue graduate school in biostatistics. 
 
 <div style="text-align: center;">
   <img src="images/owen-present.JPG" alt="BDSI Presenting" width="500" style="border: 4px solid black;"/>

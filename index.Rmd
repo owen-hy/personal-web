@@ -1,7 +1,6 @@
 ---
 title: ''
 ---
-
 <center> <h1><b>Owen Yoo</b></h1> </center>
 <center> 
 Statistics and Data Science Student - University of Michigan\newline
@@ -14,6 +13,28 @@ Hello! My name is Owen and I am a Statistics/Data Science double major and Music
 
 Feel free to look around my website, and learn more about my endeavors in and out of the classroom!
 
+<div style="text-align: left;">
 
+#### Currently
 
+* Research Assistant with the Data Processing Team at [Health and Retirement Study](https://hrs.isr.umich.edu/) at the University of Michigan's Institute for Social Research
 
+* Co-President of Michigan Sports Analytics Society
+
+* Vice President of Eta Kappa Nu - Beta Epsilon
+
+#### Formerly 
+
+* Undergraduate Researcher - [Big Data Summer Institute](https://sph.umich.edu/bdsi/index.html) at the University of Michigan's School of Public Health
+
+* Grader for EECS 183 (Elementary Programming Concepts)
+
+#### Always
+
+* Michigan Football Fan (Watch my favorite Michigan play [here](https://www.youtube.com/watch?v=WpwhDGvjV6M&ab_channel=FootballShorts))
+
+* Music Enthusiast (Classic Rock, Jazz, Indie, Hip-Hop, literally everything)
+
+* ggplot2 Aficionado
+
+</div>
