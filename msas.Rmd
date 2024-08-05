@@ -6,6 +6,8 @@ title: ""
 
 When I'm not frantically worried about my R code or figuring out the probability of a royal flush, I enjoy watching football. I've had the enjoyment of watching Michigan football win the national championship and lions first playoff win since 1991 in 2024. My passion for football has also intersected with my love for data and statistics. I've been a member of Michigan Sports Analytics Society (MSAS) since January '23 and I've been co-president since April '24. I've done a couple of projects for the annual MSAS symposiums, and these were some of my first introduction to statistics R coding. I owe a lot to sports analytics, as it allowed me to fall in love with data even more and also allowed me to interact with cool people in cool places, including the MIT Sloan Sports Analytics Conference.
 
+The projects mentioned here will specifically be in reference to projects made for the MSAS symposium, other smaller works can be found in the "Passion Plot" tab
+
 <div style="text-align: center;">
   <img src="images/sloan-image.jpg" alt="sloan picture" width="500" style="border: 4px solid black;"/>
   <br/>

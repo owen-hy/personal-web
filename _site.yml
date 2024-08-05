@@ -13,6 +13,8 @@ navbar:
           href: biostats.html
         - text: "Sports Analytics" 
           href: msas.html
+    - text: "Passion Plots"
+      href: plots.html
     - text: "Other Profiles"
       menu:
         - text:  LinkedIn
