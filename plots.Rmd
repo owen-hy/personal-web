@@ -9,7 +9,7 @@ output:
 
 One thing that I admire about statistics is Data Visualizations. I've made a couple plots that haven't really been featured but are still really cool. This page is dedicated to these plots, and will even include the snippets of code I used to make them. Use the "Show" buttons to see the code.
 
-## Analysis of 2023's Michigan Football Team's Passing Offense
+## Analysis of 2022's Michigan Football Team's Passing Offense
 
 These plots analyze the efficiency of Michigan's passing offense in the 2022 season using data provided by Statsbomb for Michigan Sports Analytics Society. One of the metrics used is EPA (Expected Points Added), a way of quantifying the effect of a single play. 
 
