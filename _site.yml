@@ -23,6 +23,6 @@ navbar:
         - text:  GitHub
           href: https://github.com/owen-hy
           icon: fa-github fa-lg
-        - text:  Resume
-          href: https://drive.google.com/file/d/16AT6J-mNjCgvGBdWNovb2GD1PY4xtPO9/view
+        - text:  CV
+          href: https://drive.google.com/file/d/1HmR_Qp5UWQcCsw6YBsF8oem7qvYv1wCX/view
           icon: fa-file-text fa-lg
