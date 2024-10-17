@@ -9,9 +9,9 @@ Email: owenhy@umich.edu
 
 <img src="images/owen-headshot.jpg" alt="Headshot" width="500" style="border: 4px solid black;"/>
 
-Updated: 08/04/2024
+Updated: 10/17/2024
 
-Hello! My name is Owen and I am a Statistics/Data Science double major and Music minor at the University of Michigan - Ann Arbor. I am a junior with a passion for data for good. I am particularly interested in biostatistics, and hope to pursue a Masters/PhD in the field. Within the world of statistics and data analysis, I am currently an enthusiast in clinical trial design and spatial analysis. Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and playing my guitar and trumpet.
+Hello! My name is Owen and I am a Statistics/Data Science double major and Music minor at the University of Michigan - Ann Arbor. I am a junior with a passion for data for good. I am particularly interested in biostatistics, and hope to pursue a Masters/PhD in the field. Within the world of statistics and data analysis, I am currently an enthusiast in clinical trial design and bayesian analysis. Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and playing my guitar and trumpet.
 
 Feel free to look around my website, and learn more about my endeavors in and out of the classroom!
 
@@ -20,6 +20,8 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 #### Currently
 
 * Research Assistant with the Data Processing Team at [Health and Retirement Study](https://hrs.isr.umich.edu/) at the University of Michigan's Institute for Social Research
+
+* Undergraduate Researcher w/ [Dr. Zhenke Wu](https://zhenkewu.com/) - Project: “Prior elicitation algorithms for inferring causes of death from computer-coded verbal autopsy data”
 
 * Co-President of Michigan Sports Analytics Society
 
@@ -35,7 +37,7 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 * Michigan Football Fan (Watch my favorite Michigan play [here](https://www.youtube.com/watch?v=WpwhDGvjV6M&ab_channel=FootballShorts))
 
-* Music Enthusiast (Classic Rock, Jazz, Indie, Hip-Hop, literally everything)
+* Music Enthusiast (Classic Rock, Jazz, Indie, Hip-Hop, [literally everything](https://open.spotify.com/playlist/6KzqK8ZsWqqT5bIbJCEafc))
 
 * ggplot2 Aficionado (Go to "Passion Plots" to see some of my favorites that I've made!)
 
