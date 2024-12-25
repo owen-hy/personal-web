@@ -23,7 +23,7 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 * Co-President of Michigan Sports Analytics Society
 
-* Grader for EECS 183 (Elementary Programming Concepts)
+* Grader for EECS 203 (Discrete Mathematics)
 
 #### Formerly 
 
@@ -33,12 +33,14 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 * Vice President of Eta Kappa Nu - Beta Epsilon
 
+* Grader for EECS 183 (Elementary Programming Concepts)
+
 #### Always
 
 * Michigan Football Fan (Watch my favorite Michigan play [here](https://www.youtube.com/watch?v=WpwhDGvjV6M&ab_channel=FootballShorts))
 
 * Music Enthusiast (Classic Rock, Jazz, Indie, Hip-Hop, [literally everything](https://open.spotify.com/playlist/6KzqK8ZsWqqT5bIbJCEafc))
 
-* ggplot2 Aficionado (Go to "Passion Plots" to see some of my favorites that I've made!)
+* ggplot2 Aficionado 
 
 </div>
