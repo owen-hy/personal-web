@@ -13,8 +13,6 @@ navbar:
           href: biostats.html
         - text: "Sports Analytics" 
           href: msas.html
-    - text: "Passion Plots"
-      href: plots.html
     - text: "Other Profiles"
       menu:
         - text:  LinkedIn
@@ -24,5 +22,5 @@ navbar:
           href: https://github.com/owen-hy
           icon: fa-github fa-lg
         - text:  CV
-          href: https://drive.google.com/file/d/1HmR_Qp5UWQcCsw6YBsF8oem7qvYv1wCX/view
+          href: https://drive.google.com/file/d/1QEEY_gvndoKA0sIk3th9UYyQrvH0Dgkw/view
           icon: fa-file-text fa-lg
