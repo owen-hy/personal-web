@@ -21,6 +21,8 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 * Research Assistant with the Data Processing Team at [Health and Retirement Study](https://hrs.isr.umich.edu/) at the University of Michigan's Institute for Social Research
 
+* Undergraduate Researcher with [Dr. Irina Gaynanova](https://irinagain.github.io/index) (URPS) - Project: "Building Analytical Tools for Wearable Heart Rate Data"
+
 * Co-President of Michigan Sports Analytics Society
 
 * Grader for EECS 203 (Discrete Mathematics)
