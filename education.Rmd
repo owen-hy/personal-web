@@ -12,19 +12,25 @@ I have the incredible privilege of attending the University of Michigan. Here I 
   <em>The Law Quad at Michigan</em>
 </div>
 
-### Current Coursework (W25)
+### Current Coursework (F25)
+
+-   **DATASCI 470**: Introduction to the Design of Experiments
+
+-   **EPID 633**: Introduction to Mathematical Modeling in Epidemiology and Public Health
+
+-   **MATH 451**: Advanced Calculus I
+
+-   **EARTH 114**: Global Warming
+
+### Relevant Coursework
+
+These courses are relevant to my background as a statistics and data science double major
 
 -   **STATS 426**: Introduction to Theoretical Statistics
 
 -   **DATASCI 415**: Data Mining and Statistical Learning
 
--   **THEORY 238**: Introduction to Music Analysis
-
 -   **PUBHLTH 345**: Public Health Data Visualization
-
-### Relevant Coursework
-
-These courses are relevant to my background as a statistics and data science double major
 
 -   **STATS 413**: Applied Regression Analysis
 
@@ -55,5 +61,7 @@ These courses were taken more as a personal passion. While not completely releva
 -   **HISTORY 376**: Epidemics: Plagues and Cultures from the Black Death to the Present
 
 -   **THEORY 137**: Introduction to the Theory of Music
+
+-   **THEORY 137**: Introduction to Musical Analysis
 
 -   **MUSICOL 123**: Introduction to Popular Music

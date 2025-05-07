@@ -9,7 +9,7 @@ Email: owenhy@umich.edu
 
 <img src="images/owen-headshot.jpg" alt="Headshot" width="500" style="border: 4px solid black;"/>
 
-Updated: 12/18/2024
+Updated: 05/06/2025
 
 Hello! My name is Owen and I am a Statistics/Data Science double major and Music minor at the University of Michigan - Ann Arbor. I am a junior with a passion for data for good. I am particularly interested in biostatistics, and hope to pursue a Masters/PhD in the field. Within the world of statistics and data analysis, I am currently an enthusiast in clinical trial design and bayesian analysis. Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and playing my guitar and trumpet.
 
@@ -23,9 +23,7 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 * Undergraduate Researcher with [Dr. Irina Gaynanova](https://irinagain.github.io/index) (URPS) - Project: "Building Analytical Tools for Wearable Heart Rate Data"
 
-* Co-President of Michigan Sports Analytics Society
-
-* Grader for EECS 203 (Discrete Mathematics)
+* Senior Advisor of Michigan Sports Analytics Society
 
 #### Formerly 
 
@@ -33,9 +31,13 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 * Undergraduate Researcher w/ [Dr. Zhenke Wu](https://zhenkewu.com/) - Project: “Prior elicitation algorithms for inferring causes of death from computer-coded verbal autopsy data”
 
+* Co-President of Michigan Sports Analytics Society
+
 * Vice President of Eta Kappa Nu - Beta Epsilon
 
 * Grader for EECS 183 (Elementary Programming Concepts)
+
+* Grader for EECS 203 (Discrete Mathematics)
 
 #### Always
 
