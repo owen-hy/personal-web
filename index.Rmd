@@ -19,7 +19,7 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 #### Currently
 
-* Undergraduate Research Intern at the University of Pennsylvania's [Summer Undergraduate Internship Program](https://www.med.upenn.edu/research-trainee-affairs/suip/) with [Dr. Kristin Linn](https://www.kristinlinn.com/) - Project: Causal Inference Methods for Cluster Randomized Trials
+* Undergraduate Research Intern at the University of Pennsylvania's [Summer Undergraduate Internship Program](https://www.med.upenn.edu/research-trainee-affairs/suip/) with [Dr. Kristin Linn](https://www.kristinlinn.com/) - Project: Average Treatment Effect for Misclassified Outcomes in Observational Studies
 
 * Research Assistant with the Data Processing Team at [Health and Retirement Study](https://hrs.isr.umich.edu/) at the University of Michigan's Institute for Social Research
 
