@@ -7,12 +7,8 @@ navbar:
       href: index.html
     - text: "Education"
       href: education.html
-    - text: "Projects and Interests"
-      menu:
-        - text: "Biostatistics"
-          href: biostats.html
-        - text: "Sports Analytics" 
-          href: msas.html
+    - text: "Research"
+      href: research.html
     - text: "Other Profiles"
       menu:
         - text:  LinkedIn
@@ -22,5 +18,5 @@ navbar:
           href: https://github.com/owen-hy
           icon: fa-github fa-lg
         - text:  CV
-          href: https://drive.google.com/file/d/1QEEY_gvndoKA0sIk3th9UYyQrvH0Dgkw/view
+          href: https://drive.google.com/file/d/1CT740rJFN0nQxVCccZpVrcWhAXV8jKtv/view?usp=sharing
           icon: fa-file-text fa-lg

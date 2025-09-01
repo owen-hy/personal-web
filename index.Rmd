@@ -9,9 +9,9 @@ Email: owenhy@umich.edu
 
 <img src="images/owen-headshot.jpg" alt="Headshot" width="500" style="border: 4px solid black;"/>
 
-Updated: 05/06/2025
+Updated: 09/01/2025
 
-Hello! My name is Owen and I am a Statistics/Data Science double major and Music minor at the University of Michigan - Ann Arbor. I am a junior with a passion for data for good. I am particularly interested in biostatistics, and hope to pursue a Masters/PhD in the field. Within the world of statistics and data analysis, I am currently an enthusiast in clinical trial design and bayesian analysis. Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and playing my guitar and trumpet.
+Hello! My name is Owen and I am a Statistics/Data Science double major and Music minor at the University of Michigan - Ann Arbor. I am a junior with a passion for data for good. I am particularly interested in biostatistics, and hope to pursue a Masters/PhD in the field. Within the world of statistics and data analysis, I am currently an enthusiast in causal inference. Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and playing my guitar and trumpet.
 
 Feel free to look around my website, and learn more about my endeavors in and out of the classroom!
 
@@ -19,15 +19,17 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 #### Currently
 
-* Undergraduate Research Intern at the University of Pennsylvania's [Summer Undergraduate Internship Program](https://www.med.upenn.edu/research-trainee-affairs/suip/) with [Dr. Kristin Linn](https://www.kristinlinn.com/) - Project: Average Treatment Effect for Misclassified Outcomes in Observational Studies
-
 * Research Assistant with the Data Processing Team at [Health and Retirement Study](https://hrs.isr.umich.edu/) at the University of Michigan's Institute for Social Research
 
 * Undergraduate Researcher with [Dr. Irina Gaynanova](https://irinagain.github.io/index) (URPS) - Project: "Building Analytical Tools for Wearable Heart Rate Data"
 
 * Senior Advisor of Michigan Sports Analytics Society
 
+* Peer advisor for Michigan's Department of Statistics
+
 #### Formerly 
+
+* Undergraduate Research Intern at the University of Pennsylvania's [Summer Undergraduate Internship Program](https://www.med.upenn.edu/research-trainee-affairs/suip/) with [Dr. Kristin Linn](https://www.kristinlinn.com/) - Project: "Average Treatment Effect for Misclassified Outcomes in Observational Studies"
 
 * Undergraduate Researcher - [Big Data Summer Institute](https://sph.umich.edu/bdsi/index.html) at the University of Michigan's School of Public Health
 
