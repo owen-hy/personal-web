@@ -9,9 +9,9 @@ Email: owenhy@umich.edu
 
 <img src="images/owen-headshot.jpg" alt="Headshot" width="500" style="border: 4px solid black;"/>
 
-Updated: 09/01/2025
+Updated: 10/15/2025
 
-Hello! My name is Owen and I am a Statistics/Data Science double major and Music minor at the University of Michigan - Ann Arbor. I am a junior with a passion for data for good. I am particularly interested in biostatistics, and hope to pursue a Masters/PhD in the field. Within the world of statistics and data analysis, I am currently an enthusiast in causal inference. Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and playing my guitar and trumpet.
+Hello! My name is Owen and I am a Statistics/Data Science double major and Music minor at the University of Michigan - Ann Arbor. I am a senior with a passion for data for good. I am particularly interested in biostatistics, and hope to pursue a Masters/PhD in the field. Within the world of statistics and data analysis, I am currently an enthusiast in causal inference. Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and playing my guitar and trumpet.
 
 Feel free to look around my website, and learn more about my endeavors in and out of the classroom!
 
