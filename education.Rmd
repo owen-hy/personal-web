@@ -12,19 +12,25 @@ I have the incredible privilege of attending the University of Michigan. Here I 
   <em>The Law Quad at Michigan</em>
 </div>
 
-### Current Coursework (F25)
+### Current Coursework (W26)
+
+-   **EECS 484**: Database Management System
+
+-   **STATS 499**: Honors Seminar (Thesis work w/ Dr. Gaynanova)
+
+-   **PAT 200**: Electronic Music Production
+
+-   **Guitar 110**: Introductory Guitar
+
+### Relevant Coursework
+
+These courses are relevant to my background as a statistics and data science double major
 
 -   **DATASCI 470**: Introduction to the Design of Experiments
 
 -   **EPID 633**: Introduction to Mathematical Modeling in Epidemiology and Public Health
 
 -   **MATH 451**: Advanced Calculus I
-
--   **EARTH 114**: Global Warming
-
-### Relevant Coursework
-
-These courses are relevant to my background as a statistics and data science double major
 
 -   **STATS 426**: Introduction to Theoretical Statistics
 
