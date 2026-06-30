@@ -2,9 +2,9 @@
 title: ""
 ---
 
-# Education
+# Michigan (Go Blue!)
 
-I have the incredible privilege of attending the University of Michigan. Here I take mostly classes within the Stats, Math, and EECS department, but have ventured outside to fulfill some of my personal curiosities.
+I had the incredible privilege of attending the University of Michigan. Here I mostly took classes within the Stats, Math, and EECS department, but have ventured outside to fulfill some of my personal curiosities.
 
 <div style="text-align: center;">
   <img src="images/law-quad.jpg" alt="Law Quad" width="500" style="border: 4px solid black;"/>
@@ -12,19 +12,11 @@ I have the incredible privilege of attending the University of Michigan. Here I 
   <em>The Law Quad at Michigan</em>
 </div>
 
-### Current Coursework (W26)
-
--   **EECS 484**: Database Management System
-
--   **STATS 499**: Honors Seminar (Thesis work w/ Dr. Gaynanova)
-
--   **PAT 200**: Electronic Music Production
-
--   **Guitar 110**: Introductory Guitar
-
 ### Relevant Coursework
 
 These courses are relevant to my background as a statistics and data science double major
+
+-   **EECS 484**: Database Management System
 
 -   **DATASCI 470**: Introduction to the Design of Experiments
 

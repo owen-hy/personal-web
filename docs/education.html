@@ -13,7 +13,7 @@
 
 <title>education.knit</title>
 
-<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -247,8 +247,20 @@ $(document).ready(function () {
         <li>
   <a href="index.html">Home</a>
 </li>
-<li>
-  <a href="education.html">Education</a>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Education
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="education.html">Michigan</a>
+    </li>
+    <li>
+      <a href="penn.html">UPenn</a>
+    </li>
+  </ul>
 </li>
 <li>
   <a href="research.html">Research</a>
@@ -299,31 +311,22 @@ $(document).ready(function () {
 </div>
 
 
-<div id="education" class="section level1">
-<h1>Education</h1>
-<p>I have the incredible privilege of attending the University of
-Michigan. Here I take mostly classes within the Stats, Math, and EECS
+<div id="michigan-go-blue" class="section level1">
+<h1>Michigan (Go Blue!)</h1>
+<p>I had the incredible privilege of attending the University of
+Michigan. Here I mostly took classes within the Stats, Math, and EECS
 department, but have ventured outside to fulfill some of my personal
 curiosities.</p>
 <div style="text-align: center;">
 <p><img src="images/law-quad.jpg" alt="Law Quad" width="500" style="border: 4px solid black;"/>
 <br/> <em>The Law Quad at Michigan</em></p>
 </div>
-<div id="current-coursework-w26" class="section level3">
-<h3>Current Coursework (W26)</h3>
-<ul>
-<li><p><strong>EECS 484</strong>: Database Management System</p></li>
-<li><p><strong>STATS 499</strong>: Honors Seminar (Thesis work w/
-Dr. Gaynanova)</p></li>
-<li><p><strong>PAT 200</strong>: Electronic Music Production</p></li>
-<li><p><strong>Guitar 110</strong>: Introductory Guitar</p></li>
-</ul>
-</div>
 <div id="relevant-coursework" class="section level3">
 <h3>Relevant Coursework</h3>
 <p>These courses are relevant to my background as a statistics and data
 science double major</p>
 <ul>
+<li><p><strong>EECS 484</strong>: Database Management System</p></li>
 <li><p><strong>DATASCI 470</strong>: Introduction to the Design of
 Experiments</p></li>
 <li><p><strong>EPID 633</strong>: Introduction to Mathematical Modeling

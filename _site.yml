@@ -6,7 +6,11 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Education"
-      href: education.html
+      menu:
+        - text: "Michigan"
+          href: education.html
+        - text: "UPenn"
+          href: penn.html
     - text: "Research"
       href: research.html
     - text: "Other Profiles"

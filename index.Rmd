@@ -3,31 +3,29 @@ title: ''
 ---
 <center> <h1><b>Owen Yoo</b></h1> </center>
 <center> 
-Statistics and Data Science Student - University of Michigan\newline
+Biostatistics PhD Student - University of Pennsylvania Perleman School of Medicine\newline
 
-Email: owenhy@umich.edu
+Email: owenhyun.yoo@pennmedicine.upenn.edu
 
 <img src="images/owen-headshot.jpg" alt="Headshot" width="500" style="border: 4px solid black;"/>
 
-Updated: 1/6/2026
+Updated: 6/30/2026
 
-Hello! My name is Owen and I am a Statistics/Data Science double major and Music minor at the University of Michigan - Ann Arbor. I am a senior with a passion for data for good. I am particularly interested in biostatistics, and hope to pursue a Masters/PhD in the field. Within the world of statistics and data analysis, I am currently an enthusiast in causal inference. Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and playing my guitar and trumpet.
+Hello! My name is Owen and I am a Biostatistics PhD Student at the University of Pennsylvania. My interests lie in Causal Inference and Clinical Trials, especially how they can be used within oncology, mental health, and wearable devices data. 
+
+I got my BS in Statistics and Data Science at the University of Michigan - Ann Arbor. Here I closely worked with Michigan Biostatistics, the Institute for Social Research, and Michigan Sports Analytics Society.
+
+Outside the classroom, I enjoy watching football (Go Lions and Go Blue!) and getting to use my music minor (I can play 4 instruments!).
 
 Feel free to look around my website, and learn more about my endeavors in and out of the classroom!
 
 <div style="text-align: left;">
 
-#### Currently
+#### Formerly 
 
 * Research Assistant with the Data Processing Team at [Health and Retirement Study](https://hrs.isr.umich.edu/) at the University of Michigan's Institute for Social Research
 
 * Undergraduate Researcher with [Dr. Irina Gaynanova](https://irinagain.github.io/index) (URPS) - Project: "Building Analytical Tools for Wearable Heart Rate Data"
-
-* Senior Advisor of Michigan Sports Analytics Society
-
-* Peer advisor for Michigan's Department of Statistics
-
-#### Formerly 
 
 * Undergraduate Research Intern at the University of Pennsylvania's [Summer Undergraduate Internship Program](https://www.med.upenn.edu/research-trainee-affairs/suip/) with [Dr. Kristin Linn](https://www.kristinlinn.com/) - Project: "Average Treatment Effect for Misclassified Outcomes in Observational Studies"
 
@@ -39,15 +37,19 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 * Vice President of Eta Kappa Nu - Beta Epsilon
 
+* Senior Advisor of Michigan Sports Analytics Society
+
+* Peer advisor for Michigan's Department of Statistics
+
 * Grader for EECS 183 (Elementary Programming Concepts)
 
 * Grader for EECS 203 (Discrete Mathematics)
 
 #### Always
 
-* Michigan Football Fan (Watch my favorite Michigan play [here](https://www.youtube.com/watch?v=WpwhDGvjV6M&ab_channel=FootballShorts))
+* Michigan Football (Watch my favorite Michigan Football play [here](https://www.youtube.com/watch?v=WpwhDGvjV6M&ab_channel=FootballShorts)) and Michigan Basketball (Watch my favorite Michigan Basketball Play [here](https://www.youtube.com/watch?v=8MMAxvLzWb4&t=67s)) Fan
 
-* Music Enthusiast (Classic Rock, Jazz, Indie, Hip-Hop, [literally everything](https://open.spotify.com/playlist/6KzqK8ZsWqqT5bIbJCEafc))
+* Music Enthusiast (Classic Rock, Jazz, Indie, Hip-Hop, reach out to me to talk about my spotify listening habits!)
 
 * ggplot2 Aficionado 
 
