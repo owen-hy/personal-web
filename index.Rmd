@@ -9,7 +9,7 @@ Email: owenhyun.yoo@pennmedicine.upenn.edu
 
 <img src="images/owen-headshot.jpg" alt="Headshot" width="500" style="border: 4px solid black;"/>
 
-Updated: 6/30/2026
+Updated: 9/27/2026
 
 Hello! My name is Owen and I am a Biostatistics PhD Student at the University of Pennsylvania. My interests lie in Causal Inference and Clinical Trials, especially how they can be used within oncology, mental health, and wearable devices data. 
 
@@ -21,13 +21,17 @@ Feel free to look around my website, and learn more about my endeavors in and ou
 
 <div style="text-align: left;">
 
+#### Currently
+
+* Rotation Student w/ [Dr. Nicholas Seewald](https://www.nickseewald.com/) - Project: "Individual-Level Data Aggregation for Difference-in-Differences"
+
 #### Formerly 
 
 * Research Assistant with the Data Processing Team at [Health and Retirement Study](https://hrs.isr.umich.edu/) at the University of Michigan's Institute for Social Research
 
-* Undergraduate Researcher with [Dr. Irina Gaynanova](https://irinagain.github.io/index) (URPS) - Project: "Building Analytical Tools for Wearable Heart Rate Data"
+* Undergraduate Researcher w/ [Dr. Irina Gaynanova](https://irinagain.github.io/index) (URPS) - Project: "Building Analytical Tools for Wearable Heart Rate Data"
 
-* Undergraduate Research Intern at the University of Pennsylvania's [Summer Undergraduate Internship Program](https://www.med.upenn.edu/research-trainee-affairs/suip/) with [Dr. Kristin Linn](https://www.kristinlinn.com/) - Project: "Average Treatment Effect for Misclassified Outcomes in Observational Studies"
+* Undergraduate Research Intern at the University of Pennsylvania's [Summer Undergraduate Internship Program](https://www.med.upenn.edu/research-trainee-affairs/suip/) w/ [Dr. Kristin Linn](https://www.kristinlinn.com/) - Project: "Average Treatment Effect for Misclassified Outcomes in Observational Studies"
 
 * Undergraduate Researcher - [Big Data Summer Institute](https://sph.umich.edu/bdsi/index.html) at the University of Michigan's School of Public Health
 

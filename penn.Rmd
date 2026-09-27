@@ -5,10 +5,18 @@ output: html_document
 
 # Penn (Go Quakers!)
 
-I currently have the incredible opportunity to attend the University of Pennsylvania as a Biostatistics PhD Student. Come back to learn more about my journey here!
+I currently have the incredible opportunity to attend the University of Pennsylvania as a Biostatistics PhD Student. 
 
 <div style="text-align: center;">
   <img src="images/upenn_ben.png" alt="Franklin" width="500" style="border: 4px solid black;"/>
   <br/>
   <em>Benjamin Franklin</em>
 </div>
+
+### Current Coursework
+
+-   **BSTA 6200**: Probability
+
+-   **BSTA 6510**: Linear Models
+
+-   **BSTA 5110**: Biostatistics in Practice
